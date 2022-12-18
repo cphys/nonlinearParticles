@@ -9,6 +9,8 @@ Creates an animation frame which can be controled within mathematica as well as 
 
 * by defauld number of particles is set at 50 this can be adjusted within the code
 
+![](50_runtime35_particles.gif)
+
 ## Caviots/Improvements
 
 * If continuing this project, it would be helpful to track the actual relaxation time by defining  
